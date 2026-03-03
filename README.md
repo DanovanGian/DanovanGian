@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Gian Danovan</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9BF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Tech+Enthusiast;Distributed+System" alt="Typing SVG" />
+</p>
 
-<!--
-**DanovanGian/DanovanGian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://giandanovan.my.id"><img src="https://img.shields.io/badge/Portfolio-nodrop--website-blue?style=for-the-badge&logo=vercel" alt="Portfolio Website"></a>
+  <a href="https://www.linkedin.com/in/gian-danovan-489417298/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/DanovanGian"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://codeforces.com/profile/NoDrop30"><img src="https://img.shields.io/badge/Codeforces-NoDrop30-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces"></a>
+  <a href="https://tlx.toki.id/profiles/impresionpti"><img src="https://img.shields.io/badge/TLX_Toki-impresionpti-orange?style=for-the-badge" alt="TLX Toki"></a>
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  <h2>Software Engineer with flexibility to adapt with new technology</h2>
+  <p>Specializing in backend development, Cyber Security, distributed systems, and mathematical problems.</p>
+  <p>Have interest in AI and Competitive Programming.</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!
+
+Feel free to reach out for collaborations, technical inquiries, or just a friendly chat!
+- 💼 LinkedIn: [Gian Danovan](https://www.linkedin.com/in/gian-danovan-489417298 )
